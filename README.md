@@ -1,1 +1,1 @@
-# Latihan VCS
+# Cara Penggunaan Git
