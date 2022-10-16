@@ -18,3 +18,10 @@
 ![Screenshot (26)](https://user-images.githubusercontent.com/115473812/196035498-911dc45b-3807-42ae-a076-cf37c07f1b5f.png)
 ![Screenshot (27)](https://user-images.githubusercontent.com/115473812/196035558-02a4af10-5bc9-4f20-b09d-99eca2ba77de.png)
 10. Ubah folder menjadi repository menggunakan perintah [git init]
+![Screenshot (28)](https://user-images.githubusercontent.com/115473812/196036166-762d658a-cb52-470f-89a3-6c88c7d7bf11.png)
+11. Menambahkan file baru pada repositori menggunakan perintah [echo "# nama.File" >>README.md] & [got add README.md]
+![Screenshot (29)](https://user-images.githubusercontent.com/115473812/196036743-6e1c9004-4bfc-4b6b-b937-28926c32159e.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/115473812/196037170-4c12fb10-d0f8-4320-b348-e28249552b49.png)
+12. Membuatperubahan pada file README.md menggunakan perintah [git commit -m "File Tugas Git"
+![Screenshot (32)](https://user-images.githubusercontent.com/115473812/196037717-fac1bbd6-aa91-4dc6-9790-428272870202.png)
+13. Menambahkan remote repositori dari git ke Github menggunakan perintah [git remote clone {url git repositori}]
