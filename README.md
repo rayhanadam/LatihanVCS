@@ -12,4 +12,4 @@
 ![Screenshot (20)](https://user-images.githubusercontent.com/115473812/195986814-a9117cfb-2c7d-41af-bdcc-8016e0b4b093.png)
 7. Buat repository pada Github
 ![Screenshot (22)](https://user-images.githubusercontent.com/115473812/195987368-1407f491-a889-4478-b41e-c4a3f96f1b95.png)
-8. Buat folder direktori pada windows
+8. Buat folder direktori pada direktori windows
