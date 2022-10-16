@@ -13,3 +13,8 @@
 7. Buat repository pada Github
 ![Screenshot (22)](https://user-images.githubusercontent.com/115473812/195987368-1407f491-a889-4478-b41e-c4a3f96f1b95.png)
 8. Buat folder direktori pada direktori windows
+![Screenshot (25)](https://user-images.githubusercontent.com/115473812/196035467-e89e2177-2afe-4c58-a6bf-606a77af5586.png)
+9. Buka folder menggunakan Git Bash
+![Screenshot (26)](https://user-images.githubusercontent.com/115473812/196035498-911dc45b-3807-42ae-a076-cf37c07f1b5f.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/115473812/196035558-02a4af10-5bc9-4f20-b09d-99eca2ba77de.png)
+10. Ubah folder menjadi repository menggunakan perintah [git init]
