@@ -24,4 +24,5 @@
 ![Screenshot (31)](https://user-images.githubusercontent.com/115473812/196037170-4c12fb10-d0f8-4320-b348-e28249552b49.png)
 12. Membuatperubahan pada file README.md menggunakan perintah [git commit -m "File Tugas Git"
 ![Screenshot (32)](https://user-images.githubusercontent.com/115473812/196037717-fac1bbd6-aa91-4dc6-9790-428272870202.png)
-13. Menambahkan remote repositori dari git ke Github menggunakan perintah [git remote clone {url git repositori}]
+13. Menambahkan remote repositori dari git ke Github menggunakan perintah [git remote add origin {url git repositori}]
+![Screenshot (33)](https://user-images.githubusercontent.com/115473812/196038004-20b93d76-e53c-4be6-bda4-3fc0c15c3799.png)
